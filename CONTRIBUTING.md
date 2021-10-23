@@ -1,8 +1,13 @@
 # Contributing to the repository
 
 Welcome to the repository! If you face any issue feel free to create an issue.
-If you find any question missing, create a pull request, with title as the question name.
-Make sure that you create a folder and name it with the question name and code if it doesn't exists.
+
+For contributing this repository, You only have to change the code in index.html and index.css
+
+Those who have knowledge for developing and adding new feature to this repsitory, they may have add some feature.
+
+Those who newbie to github and hacktoberfest they may try to change Color of background in this repository.
+
 
 ### Raising a Pull Request 
 
