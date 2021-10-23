@@ -1,0 +1,7 @@
+Violet - rgb(238, 130, 238)
+Indigo - rgb(75, 0, 130)
+Blue - rgb(0, 0, 255)
+Green - rgb(0, 128, 0)
+Yellow - rgb(255, 255, 0)
+Orange - rgb(255, 165, 0)
+Red - rgb(255, 0, 0)
